@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EvalLM
+title: Luminate
 theme: minima
-description: "Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+description: "Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation"
 
 syscolor: "#555555"
 sysfont: Inter
-video: https://www.youtube-nocookie.com/embed/7hvTnhiCO7Y?si=6I9aqVnatM8VoaJd
-paper: https://arxiv.org/abs/2309.13633
+video: https://www.youtube.com/embed/XROHlQ87cls?si=B3NQVv8RMpEkLk71
+paper: ""
 
 plugins:
   - jekyll-feed

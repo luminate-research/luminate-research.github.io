@@ -25,7 +25,7 @@ description: "Structured Generation and Exploration of Design Space with Large L
 syscolor: "#555555"
 sysfont: Inter
 video: https://www.youtube.com/embed/XROHlQ87cls?si=B3NQVv8RMpEkLk71
-paper: ""
+paper: "https://arxiv.org/abs/2310.12953"
 
 plugins:
   - jekyll-feed

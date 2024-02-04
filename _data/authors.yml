@@ -1,20 +1,20 @@
-- name: Tae Soo Kim
-  affiliation: KAIST
-  website: https://taesookim.com
-  img: taesoo.jpeg
-- name: Yoonjoo Lee
-  affiliation: KAIST
-  website: https://yoonjoolee.com
-  img: yoonjoo.jpeg
-- name: Jamin Shin
-  affiliation: NAVER AI Lab
-  website: https://www.jayshin.xyz/
-  img: jamin.jpg
-- name: Young-Ho Kim
-  affiliation: NAVER AI Lab
-  website: http://younghokim.net/
-  img: youngho.jpg
-- name: Juho Kim
-  affiliation: KAIST
-  website: https://juhokim.com
-  img: juho.jpg
+- name: Sangho Suh
+  affiliation: UC San Diego
+  website: https://sanghosuh.github.io
+  img: sangho.jpg
+- name: Meng Chen
+  affiliation: Univ of Notre Dame
+  website: https://www.linkedin.com/in/mengchen24/
+  img: meng.jpeg
+- name: Bryan Min
+  affiliation: UC San Diego
+  website: https://bryanmin.me/
+  img: bryan.jpg
+- name: Toby Jia-Jun Li
+  affiliation: Univ of Notre Dame
+  website: https://toby.li/
+  img: toby.jpeg
+- name: Haijun Xia
+  affiliation: UC San Diego
+  website: https://creativity.ucsd.edu/
+  img: haijun.jpg

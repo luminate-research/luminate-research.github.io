@@ -17,3 +17,15 @@ See <span class="sys-name">Luminate</span> in action in this Video Demo.
   <iframe src="{{site.video}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 {% endif %}
+
+------
+
+## Bibtex
+<pre>
+@article{suh2023structured,
+  title={Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation},
+  author={Suh, Sangho and Chen, Meng and Min, Bryan and Li, Toby Jia-Jun and Xia, Haijun},
+  journal={arXiv preprint arXiv:2310.12953},
+  year={2023}
+}
+</pre>

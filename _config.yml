@@ -24,8 +24,11 @@ description: "Structured Generation and Exploration of Design Space with Large L
 
 syscolor: "#555555"
 sysfont: Inter
+preview: https://www.youtube.com/embed/_H8yt2OS7FE?si=mpB9EgqXJx4ymvYB
 video: https://www.youtube.com/embed/XROHlQ87cls?si=B3NQVv8RMpEkLk71
 paper: "https://arxiv.org/abs/2310.12953"
+code: "https://github.com/project-luminate/luminate/"
+demo: "https://luminate-research.netlify.app/"
 
 plugins:
   - jekyll-feed

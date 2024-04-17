@@ -50,7 +50,7 @@ layout: default
 </div>
 
 <p>
-  The current interaction paradigm with LLMs — prompt engineering — constrains us to generating a <i>single</i> output and then iterating on it. This is illustrated in the figure below as the (A) <span class="highlight">Unstructured Single-Output</span> approach. Another approach found in recent work that generates <i>multiple</i> outputs from a single prompt is referred to as the (B) <span class="highlight">Unstructured Multi-Output</span> approach.
+  The current interaction paradigm with LLMs — prompt engineering — constrains us to generating a <i>single</i> output and then iterating on it. This is illustrated in the figure above as the (A) <span class="highlight">Unstructured Single-Output</span> approach. Another approach found in recent work that generates <i>multiple</i> outputs from a single prompt is referred to as the (B) <span class="highlight">Unstructured Multi-Output</span> approach.
 </p>
 
 <p>

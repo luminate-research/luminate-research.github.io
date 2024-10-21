@@ -94,13 +94,21 @@ We introduce <img src="assets/favicon/luminate-icon.png"/><span class="sys-name"
 
 ## Bibtex
 <pre>
- @inproceedings{suh2024luminate,
-   title = {Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation},
-   author = {Suh, Sangho and Chen, Meng and Min, Bryan and Li, Toby Jia-Jun and Xia, Haijun},
-   booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
-   pages = {1--26},
-   year = {2024},
-   url = {https://doi.org/10.1145/3613904.3642400},
-   doi = {10.1145/3613904.3642400}
- }
+  @inproceedings{10.1145/3613904.3642400,
+    author = {Suh, Sangho and Chen, Meng and Min, Bryan and Li, Toby Jia-Jun and Xia, Haijun},
+    title = {Luminate: Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation},
+    year = {2024},
+    isbn = {9798400703300},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3613904.3642400},
+    doi = {10.1145/3613904.3642400},
+    abstract = {Thanks to their generative capabilities, large language models (LLMs) have become an invaluable tool for creative processes. These models have the capacity to produce hundreds and thousands of visual and textual outputs, offering abundant inspiration for creative endeavors. But are we harnessing their full potential? We argue that current interaction paradigms fall short, guiding users towards rapid convergence on a limited set of ideas, rather than empowering them to explore the vast latent design space in generative models. To address this limitation, we propose a framework that facilitates the structured generation of design space in which users can seamlessly explore, evaluate, and synthesize a multitude of responses. We demonstrate the feasibility and usefulness of this framework through the design and development of an interactive system, Luminate, and a user study with 14 professional writers. Our work advances how we interact with LLMs for creative tasks, introducing a way to harness the creative potential of LLMs.},
+    booktitle = {Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems},
+    articleno = {644},
+    numpages = {26},
+    keywords = {Large language models, creativity support, design space, dimensional exploration, human-AI co-creation, human-AI interaction},
+    location = {Honolulu, HI, USA},
+    series = {CHI '24}
+  }
 </pre>
